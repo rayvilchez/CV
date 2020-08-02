@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica;
+    background-color: #EAF6F6;
+}
+    a {
+       color: #40514E; 
+    }
+    a:visited {
+        color: #40514E;
+    }
+    a:link {
+        text-decoration: none;
+      }
+ hr {
+     border-color: silver;
+     border-width: 5px;
+     border-style: none;
+     border-top-style: dotted;
+     width: 10%;
+ }
+ h1 {
+    color: #66BFBF;
+ }
+ h3 {
+    color: #66BFBF;
+ }
